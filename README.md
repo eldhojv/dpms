@@ -1,17 +1,18 @@
 # dpms
 
-## Installing dependencies
 
-1. Install all the dependencies by running command 
+## Installing dependencies
+1. Go to Application folder
+2. Install all the dependencies by running command 
     ```
     pip install -r requirements.txt
     ```
 
-2. Download oracle library (instantclient_19_8) and extract it to application root folder 
+3. Download oracle library (instantclient_19_8) and extract it to application root folder 
 
     https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html
 
-3. Make .env file in Application/config folder
+4. Make .env file in Application/config folder
    Config file format
    ```
     HOST=""
