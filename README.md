@@ -34,6 +34,13 @@
 ![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.20.11%20PM.png)
 ##### Appointment table
 ![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.20.23%20PM.png)
+##### Inserting/Updating and Deleting information
+![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.21.13%20PM.png)
+![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.21.21%20PM.png)
+
+##### Filtering 
+![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.21.03%20PM.png)
+
 ##### Business report 1
 ![alt text](https://github.com/eldhojv/dpms/blob/main/Application-Screenshot/Screenshot%202021-12-07%20at%205.23.30%20PM.png)
 ##### Business report 2
