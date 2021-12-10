@@ -1,0 +1,37 @@
+{% extends "base.html" %} 
+{% block title %}Home{% endblock %} 
+{% block content %}
+</br>
+    <h1 align="center">Home</h1>
+
+    <dib class="container">
+    </br></br>
+      <div class="row">
+        <div class="col-sm-6">
+          <a href="/relations">
+            <div class="card bg-light text-center" >
+              <div class="card-body">
+                <h4 class="card-title">Relations</h4>
+                <p class="card-text">Display contents of relations and make updates</p>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-sm-6">
+          <a href="/reports">
+            <div class="card bg-light text-center" >
+              <div class="card-body">
+                <h4 class="card-title">Reports</h4>
+                <p class="card-text">User business goals</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </br>
+
+  </br>
+
+  {% endblock content %}

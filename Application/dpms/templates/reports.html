@@ -1,0 +1,20 @@
+
+{% extends "base.html" %} 
+{% block title %}Relations{% endblock title %} 
+{% block content %}
+    <h1 align="center">Relations</h1>
+    <div class = "row"> 
+    {% for val in data %}
+    <div class="col-sm-4 ">
+    </br>
+      <div class="card bg-light mb-1">
+        <div class="card-body">
+          <a href="/reports/{{val}}">
+            <h5 class="card-title text-center">{{val}}</h5>
+          </a>
+        </div>
+      </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock content %}
